@@ -1,4 +1,4 @@
-#this file needs a txt file to run it is named as practical2.txt
+#this file needs a txt file to run it is named as abcd.txt
 import re    #regular expression module 
 from multiprocessing import Pool  #module to run mapper and reduced function simultaneously
 
